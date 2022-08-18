@@ -1,3 +1,3 @@
 <?php
-$htmlContent = file_get_contents('https://www.webkumal.com');
+$htmlContent = file_get_contents('http://www.webkumal.com');
 echo $htmlContent;
